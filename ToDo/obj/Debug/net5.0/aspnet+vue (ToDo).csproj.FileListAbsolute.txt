@@ -1,0 +1,72 @@
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\appsettings.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\aspnet+vue (ToDo).exe
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\aspnet+vue (ToDo).deps.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\aspnet+vue (ToDo).runtimeconfig.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\aspnet+vue (ToDo).runtimeconfig.dev.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\ref\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\aspnet+vue (ToDo).pdb
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).csproj.AssemblyReference.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).AssemblyInfoInputs.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).AssemblyInfo.cs
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).csproj.CoreCompileInputs.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\staticwebassets\aspnet+vue (ToDo).StaticWebAssets.Manifest.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\staticwebassets\aspnet+vue (ToDo).StaticWebAssets.xml
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\scopedcss\bundle\aspnet+vue (ToDo).styles.css
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).RazorTargetAssemblyInfo.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).csproj.CopyComplete
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\ref\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).pdb
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\aspnet+vue (ToDo)\obj\Debug\net5.0\aspnet+vue (ToDo).genruntimeconfig.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\appsettings.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\aspnet+vue (ToDo).exe
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\aspnet+vue (ToDo).deps.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\aspnet+vue (ToDo).runtimeconfig.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\aspnet+vue (ToDo).runtimeconfig.dev.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\ref\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\aspnet+vue (ToDo).pdb
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).csproj.AssemblyReference.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).AssemblyInfoInputs.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).AssemblyInfo.cs
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).csproj.CoreCompileInputs.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\staticwebassets\aspnet+vue (ToDo).StaticWebAssets.Manifest.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\scopedcss\bundle\aspnet+vue (ToDo).styles.css
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).RazorTargetAssemblyInfo.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\ref\aspnet+vue (ToDo).dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).pdb
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\obj\Debug\net5.0\aspnet+vue (ToDo).genruntimeconfig.cache
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Frontend\todo-list\package-lock.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Frontend\todo-list\package.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\package-lock.json
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Дияр\Desktop\Новая папка\PetProjects\ToDo\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
