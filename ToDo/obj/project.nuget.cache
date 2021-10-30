@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7zcgo9ZuljOldcsOoxi3hRVw6wBLYQxH7xldLnPWqGE0QDiHPw3DZlNRiYdTeT9QvDLc9IcjcU9TUEToioU4Ag==",
+  "dgSpecHash": "xcA3DKN4gMPwo9KyN1qQ30OGwV/Xd1eIpgtHa1DlcsAmXj9P3MCKraJRAkXgOYVtnO8noOX2Y3a8zk+yyllXww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\ToDo\\aspnet+vue (ToDo).csproj",
+  "projectFilePath": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\GithubRepos\\TodoList\\ToDo\\aspnet+vue (ToDo).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Дияр\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Дияр\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.11\\microsoft.aspnetcore.spaservices.extensions.5.0.11.nupkg.sha512",

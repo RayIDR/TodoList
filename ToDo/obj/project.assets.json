@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\ToDo\\aspnet+vue (ToDo).csproj",
+      "projectUniqueName": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\GithubRepos\\TodoList\\ToDo\\aspnet+vue (ToDo).csproj",
       "projectName": "aspnet+vue (ToDo)",
-      "projectPath": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\ToDo\\aspnet+vue (ToDo).csproj",
+      "projectPath": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\GithubRepos\\TodoList\\ToDo\\aspnet+vue (ToDo).csproj",
       "packagesPath": "C:\\Users\\Дияр\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\ToDo\\obj\\",
+      "outputPath": "C:\\Users\\Дияр\\Desktop\\Новая папка\\PetProjects\\GithubRepos\\TodoList\\ToDo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Дияр\\AppData\\Roaming\\NuGet\\NuGet.Config",
